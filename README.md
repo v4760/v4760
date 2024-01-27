@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vikaskagawad@gmail.com**
 
--💡 I'm interested data world: Big Data, Cloud, Machine Learning and Data Science
+-💡I'm interested data world: Big Data, Cloud, Machine Learning and Data Science
 
 - 💬 Talk to me about Football⚽️, Formula 1 🏎️,Movies 🎥, International Relations 📰, Music 🎶
 
