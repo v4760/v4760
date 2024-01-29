@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing Masters in Data Analytics Engineering at Northeastern University, Boston
 
-- 📫 How to reach me **vikaskagawad@gmail.com** 
+- 📫 How to reach me **vikaskagawad@gmail.com**  
 
 - 💡I'm interested data world: Big Data, Cloud, Machine Learning and Data Science
 
