@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Kagawad</h1>
-<h3 align="center">An Engineer on a Mission to Tackle Challenges with Creativity and Logic</h3>
+<h3 align="center">An Engineer who enjoys to Tackle Challenges with Creativity and Logic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v4760&label=Profile%20views&color=0e75b6&style=flat" alt="v4760" /> </p>
 
