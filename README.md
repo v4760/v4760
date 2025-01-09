@@ -9,9 +9,13 @@
 
 - 💡Interests:
        - Software Engineering: Building scalable and efficient systems
+  
        - Data Engineering: Designing data pipelines and processing frameworks
+  
        - MLOps/DevOps: Automating workflows and improving CI/CD processes
+  
        - Cloud Computing: Leveraging cloud platforms like AWS, GCP, and Azure
+  
        - Machine Learning: Exploring AI models and algorithms
 
 - 💬 Talk to me about Football⚽️, Formula 1 🏎️,Movies 🎥, International Relations 📰, Music 🎶
