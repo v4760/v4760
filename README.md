@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Kagawad</h1>
-<h3 align="center">A Data Engineer passionate about Data Science 📊</h3>
+<h3 align="center">An Engineer on a Mission to Tackle Challenges with Creativity and Logic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v4760&label=Profile%20views&color=0e75b6&style=flat" alt="v4760" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 💡Interests:
   
-  **Software Engineering**: Building scalable and efficient systems
+  - **Software Engineering**: Building scalable and efficient systems
   
-  **Data Engineering**: Designing data pipelines and processing frameworks
+  - **Data Engineering**: Designing data pipelines and processing frameworks
   
-  **MLOps/DevOps**: Automating workflows and improving CI/CD processes
+  - **MLOps/DevOps**: Automating workflows and improving CI/CD processes
   
-  **Cloud Computing**: Leveraging cloud platforms like AWS, GCP, and Azure
+  - **Cloud Computing**: Leveraging cloud platforms like AWS, GCP, and Azure
   
-  **Machine Learning**: Exploring AI models and algorithms
+  - **Machine Learning**: Exploring AI models and algorithms
 
 - 💬 Talk to me about Football⚽️, Formula 1 🏎️,Movies 🎥, International Relations 📰, Music 🎶
 
